@@ -1,3 +1,3 @@
 # AR-mouse-keyboard
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QX1z4M2KehM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/QX1z4M2KehM/0.jpg)](https://youtu.be/QX1z4M2KehM)
